@@ -4,7 +4,7 @@
 
 This repository contains the code samples, slides, demos and labs shown during my talk session at Xamarin on The Rocks in Verona on Dec 16.
 
-[Slides](./Xamarin.Forms - Cloudgen.pdf)
+[Slides](./Xamarin.Forms%20-%20Cloudgen.pdf)
 
 [Xamarin.Foms Embedding in Xamarin Native Projects](./Demos/FormsEmbedding)
 
